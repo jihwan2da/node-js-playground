@@ -1,6 +1,6 @@
 /**
  * healthCheck Controller
- * @rount /health_check
+ * @route /api/v1/health_check
  * @method GET
  */
 
